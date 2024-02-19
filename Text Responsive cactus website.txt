@@ -1,0 +1,136 @@
+========== HEADER ==========
+.nav__logo
+Cactus
+
+.nav__link
+Home - News - Shop - Care - Contact
+
+
+========== HOME ==========
+.home__title
+ORNAMENTAL <br>
+<span>PLANTS</span> FOR <br>
+YOUR HOME <br>
+
+.home__description
+We design ornamental plants for your 
+home in-house for an original style and 
+quality you won't find anywhere else.
+
+.button
+GO TO SHOP
+
+.button__link
+MORE DETAILS
+
+.home__location span
+AV. The Sun #321 <br> Lima Peru
+
+
+========== NEWS ==========
+.section__title
+NEW PLANTS FOR <br> YOUR HOME
+
+.new__description
+Select new ornamental plants for home 
+decoration and obtain an atmosphere of 
+harmony and freshness.
+
+.new__title
+Gymnocalycium Cactus
+Lily Pad Succulent
+Rebutia Cactus
+
+
+========== SHOP ==========
+.section__title
+THE BEST PLANTS
+
+.shop__title .shop__price
+Gymnocalycium <br> Cactus
+$15
+
+Echeveria <br> Succulent
+$10
+
+Ferocactus <br> Cactus
+$15
+
+Key Lime Pie <br> Succulent
+$10
+
+Melocactus <br> Cactus
+$15
+
+
+========== CARE ==========
+.section__title
+CARE AND HEALTH FOR <br> YOUR CACTUS
+
+.care__item p
+In cold times, add water once a month 
+and during the summer do it when the 
+soil is very dry.
+
+Have good drainage so that the cactus 
+does not accumulate water.
+
+Place your cactus or succulent in a 
+location with indirect light.
+
+Do not water more than necessary, as 
+it can accumulate too much water and 
+the plant will rot.
+
+Do not expose to high temperatures, as 
+succulent plants are not fans of 
+extremes.
+
+
+========== CONTACT ==========
+.section__title
+YOU WANT A CACTUS <br> CONTACT US
+
+.contact__title
+Write to us
+Call us at the numbers
+Find us here
+
+.contact__social
+https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+https://m.me/bedimcode
+mailto:examplemail@correo.com
+
+.contact__info
++00-987-7654-321 <br>
++11-012345
+
+Lima - Sun City - Peru <br>
+Av. Moon #4321
+
+
+========== FOOTER ==========
+.footer__logo
+Cactus
+
+.footer__description
+Choose the best <br> plants for your home.
+
+footer__title .footer__info
+COMPANY
+ About Us
+ Products
+ Features
+
+INFORMATION
+ Blogs & News
+ Contacts Us
+ FAQs
+
+SOCIAL MEDIA
+ https://www.facebook.com/
+ https://www.instagram.com/
+ https://twitter.com/
+
+.footer__copy
+&#169; All Rights Reserved By Bedimcode
